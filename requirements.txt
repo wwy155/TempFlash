@@ -1,0 +1,7 @@
+# versions used for the paper (Python 3.10.12, CUDA 12.1, NVIDIA A100 GPUs)
+torch==2.1.2
+dgl==2.4.0
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.7.2
+pyyaml==6.0.3
