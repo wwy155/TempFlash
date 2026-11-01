@@ -14,9 +14,7 @@ and [ETC](https://github.com/eddiegaoo/ETC), then link the data directory:
 
 ## Run
 
-    bash scripts/train_LASTFM_TGN.sh 0     # one workload of Table 2 (three seeds) on GPU 0
-    bash scripts/time_LASTFM_TGN.sh 0      # its epoch time
-    bash scripts/run_main_table.sh 0       # all twelve workloads
+    bash scripts/train_default.sh 0
 
 `tempflash/layers.py`, `modules.py`, `memorys.py` and `utils.py` are adapted from TGL (Apache-2.0,
 `tempflash/LICENSE-TGL`) and ETC.
