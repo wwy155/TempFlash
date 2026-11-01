@@ -18,5 +18,5 @@ and [ETC](https://github.com/eddiegaoo/ETC), then link the data directory:
     bash scripts/time_LASTFM_TGN.sh 0      # its epoch time
     bash scripts/run_main_table.sh 0       # all twelve workloads
 
-The settings of every workload are in `workloads.csv`. `tempflash/layers.py`, `modules.py`, `memorys.py` and
-`utils.py` are adapted from TGL (Apache-2.0, `tempflash/LICENSE-TGL`) and ETC.
+`tempflash/layers.py`, `modules.py`, `memorys.py` and `utils.py` are adapted from TGL (Apache-2.0,
+`tempflash/LICENSE-TGL`) and ETC.
